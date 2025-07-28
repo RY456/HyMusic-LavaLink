@@ -2,7 +2,7 @@
 
 module.exports = {
   TOKEN: "",
-  language: "en",
+  language: "es",
   ownerID: ["1004206704994566164", ""], 
   mongodbUri : "mongodb+srv://yojanderhernandez046:<db_password>@hymusic.6rup8g4.mongodb.net/?retryWrites=true&w=majority&appName=HyMusic",
   spotifyClientId : "1f3212b311c340d3bb8b11a52135afc7",
